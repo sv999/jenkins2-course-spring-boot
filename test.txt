@@ -1,0 +1,1 @@
+file to check automation triggering of the build
